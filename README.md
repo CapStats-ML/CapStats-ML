@@ -24,7 +24,8 @@ Aquí algunos de mis proyectos más interesantes:
 
 ## Educación
 - **[Universidad Nacional de Colombia]** - Estadística (Año de Finalización: 2025)
-  - Cursos relevantes: [Conviertete en Data Analyst - LinkedIn], [Kaggle Learn Complete - Kaggle]
+  - Cursos relevantes: [Metodos Multivariados], [Analisis Estadistico de Redes Sociales], [Analisis de Regresion], [Series de Tiempo], [Teoria Estadistica del Riesgo], [Metodos no Parametricos], etc
+- **[Educacion Virtual]**: [Conviertete en Data Analyst - LinkedIn], [Kaggle Learn Complete - Kaggle]
 
 ## Contacto
 - **Correo:** [ceprieto@unal.edu.co]
