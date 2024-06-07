@@ -29,7 +29,7 @@ Aquí algunos de mis proyectos más interesantes:
 
 ## Contacto
 - **Correo:** [ceprieto@unal.edu.co]
-- **LinkedIn:** [[enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/cesar-prietosrt/)]
+- [**LinkedIn:**](https://www.linkedin.com/in/cesar-prietosrt/)
 
 ## Blog
 - [**En construccion**]
