@@ -36,4 +36,8 @@ Aquí algunos de mis proyectos más interesantes:
 
 ## Estadísticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CapStats-ML&theme=dark&hide_border=true&border_radius=5&locale=es&mode=weekly&card_width=750&card_height=250)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=CapStats-ML&theme=dark&hide_border=true&border_radius=5&locale=es&mode=weekly&card_width=750&card_height=250" alt="GitHub Streak" />
+  </a>
+</div>
