@@ -33,3 +33,6 @@ Aquí algunos de mis proyectos más interesantes:
 
 ## Blog
 - [**En construccion**]
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CapStats-ML&show_icons=true&locale=en&layout=compact" alt="CapStats-ML" /></p>
+
