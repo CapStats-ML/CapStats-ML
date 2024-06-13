@@ -36,9 +36,4 @@ Aquí algunos de mis proyectos más interesantes:
 
 ## Estadísticas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CapStats-ML&show_icons=true&locale=en" alt="CapStats-ML" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CapStats-ML&" alt="CapStats-ML" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CapStats-ML&show_icons=true&locale=en&layout=compact" alt="CapStats-ML" /></p>
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CapStats-ML&theme=dark&hide_border=true&border_radius=5&locale=es&mode=weekly&card_width=750&card_height=250)](https://git.io/streak-stats)
