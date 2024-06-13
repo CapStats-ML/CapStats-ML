@@ -34,5 +34,10 @@ Aquí algunos de mis proyectos más interesantes:
 ## Blog
 - [**En construccion**]
 
+## Estadísticas
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CapStats-ML&show_icons=true&locale=en&layout=compact" alt="CapStats-ML" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CapStats-ML&show_icons=true&locale=en" alt="CapStats-ML" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CapStats-ML&" alt="CapStats-ML" /></p>
+
 
