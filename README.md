@@ -20,7 +20,7 @@ Aquí algunos de mis proyectos más interesantes:
 - **Análisis de Datos y Visualización:** RStudio, Jupyter Notebook, Matplotlib, Seaborn, Plotly
 - **Machine Learning y AI:** Modelado predictivo, regresión, clasificación, clustering
 - **Bases de datos:** PostgreSQL
-- **Herramientas:** Git, VS Code, Conda
+- **Herramientas:** Git, VS Code, Conda, Mini Conda
 
 ## Educación
 - **[Universidad Nacional de Colombia]** - Estadística (Año de Finalización: 2025)
