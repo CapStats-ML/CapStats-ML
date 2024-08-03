@@ -7,12 +7,13 @@ Soy estudiante de Ciencias Estadísticas en la Universidad Nacional de Colombia,
 ## Proyectos Destacados
 Aquí algunos de mis proyectos más interesantes:
 
-1. **[Time-Series]** - Se desarrollo en compañia de un grupo de trabajo el proyecto final de la asignatura de Series de Tiempo.
+1. **[Time-Series]** - Se planteo el análisis de 2 series de tiempo con una periodicidad diferente para de esta forma aplicar los conceptos aprendidos en clase y descubrir el proceso y el funcionamiento de las tecnicas de descripcion y modelado de Series temporales utilizando tecnicas de modelado tipicas como son los modelos ARMA, ARIMA y SARIMA, y por otro lado tecnicas novedosas como pueden ser el modelado a traves de Arboles de decisión y usando Redes Neuronales tanto Recurrentes como LSTM, como no recurrentes y multicapas. 
    - Tecnologías: [R, Python, Scikit-learn, TensorFlow, Pandas, NumPy]
    - [Enlace al repositorio](https://github.com/CapStats-ML/Time-series)
-2. **[Social_Networks]** - Se desarrollo en compañia de [Alejandro Urrego](https://github.com/aurreg) todo el trabajo de la asignatura de Analisis Estadistico de Redes Sociales con el enfoque de grafos de relacionales
+2. **Análisis de redes Bipartitas en Series de Anime** - Se desarrolló en compañía de [Alejandro Urrego](https://github.com/aurreg) un proyecto, donde descubrimos como las descripciones de las series, en este caso series de animación Japonesa, influían en la creación de grandes comunidades en la red de Usuarios - Animes a traves del análisis textual NLP usando redes con Bigramas y el modelado aplicando ERGM sobre algunas variables exógenas creadas a partir de la búsqueda de comunidades dentro de las redes de palabras.
    - Tecnologías: [R, Python, Conda, Igraph (Tanto en R como en Python), Networkx]
-   - [Enlace al repositorio](https://github.com/CapStats-ML/Social_Networks)
+   - [Enlace al repositorio](https://github.com/aurreg/Anime-Network-Project)
+   - Presentado en la escuela latinoamericana de redes y sistemas complejos [ENREDANDO 2024](https://sites.google.com/unal.edu.co/enredando2024/p%C3%A1gina-principal?authuser=0) en la modalidad de poster
 
 ## Habilidades
 - **Lenguajes de programación:** R, Python
