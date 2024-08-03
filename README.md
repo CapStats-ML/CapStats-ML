@@ -33,7 +33,7 @@ Aquí algunos de mis proyectos más interesantes:
 - [**LinkedIn:**](https://www.linkedin.com/in/cesar-prietosrt/)
 
 ## Blog
-- El siguiente link contiene mi presentación personal en forma de Blog en el cual se planean desarrollar varias actividades tanto academicas como divulgativas por mi persona, antes que nada mencionar que este sitio todavía esta [**En construccion**](https://capstats-ml.github.io/CapStats/about.html)
+- El siguiente link contiene mi presentación personal en forma de Blog en el cual se planean desarrollar varias actividades tanto academicas como divulgativas por mi persona, antes que nada mencionar que este sitio todavía esta **En construccion** pero puedes acceder haciendo click [**AQUÍ**](https://capstats-ml.github.io/CapStats/about.html). Si estas interesado en ver como construí este sitio web, puedes echarle un vistazo al [**repo**](https://github.com/CapStats-ML/CapStats).
 
 ## Estadísticas
 
