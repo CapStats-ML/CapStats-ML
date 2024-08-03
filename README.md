@@ -11,10 +11,10 @@ Aquí algunos de mis proyectos más interesantes:
    - Tecnologías: [R, Python, Scikit-learn, TensorFlow, Pandas, NumPy]
    - [Enlace al repositorio](https://github.com/CapStats-ML/Time-series)
 2. **Análisis de redes Bipartitas en Series de Anime** - Se desarrolló en compañía de [Alejandro Urrego](https://github.com/aurreg) un proyecto, donde descubrimos como las descripciones de las series, en este caso series de animación Japonesa, influían en la creación de grandes comunidades en la red de Usuarios - Animes a traves del análisis textual NLP usando redes con Bigramas y el modelado aplicando ERGM sobre algunas variables exógenas creadas a partir de la búsqueda de comunidades dentro de las redes de palabras.
+   - Presentado en la escuela latinoamericana de redes y sistemas complejos [ENREDANDO 2024](https://sites.google.com/unal.edu.co/enredando2024/p%C3%A1gina-principal?authuser=0) en la modalidad de poster
    - Tecnologías: [R, Python, Conda, Igraph (Tanto en R como en Python), Networkx]
    - [Enlace al repositorio](https://github.com/aurreg/Anime-Network-Project)
-   - Presentado en la escuela latinoamericana de redes y sistemas complejos [ENREDANDO 2024](https://sites.google.com/unal.edu.co/enredando2024/p%C3%A1gina-principal?authuser=0) en la modalidad de poster
-
+   
 ## Habilidades
 - **Lenguajes de programación:** R, Python
 - **Frameworks y Librerías:** Scikit-learn, TensorFlow, Pandas, NumPy, Dplyr, Igraph
