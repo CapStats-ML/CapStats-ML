@@ -1,8 +1,4 @@
-<div class="text-center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&duration=4000&pause=700&color=F76000&center=true&vCenter=true&width=500&height=75&lines=I'm+a+statistics+enthusiast;Crunching+numbers+and+building+models;Unlocking+insights+from+data;Machine+Learning+is+my+jam+%F0%9F%A4%96;Turning+complexity+into+clarity+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&duration=4000&pause=700&color=F76000&center=true&vCenter=true&width=900&height=75&lines=I'm+a+statistics+enthusiast;Crunching+numbers+and+building+models;Unlocking+insights+from+data;Machine+Learning+is+my+jam+%F0%9F%A4%96;Turning+complexity+into+clarity+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 Hola!! Soy Cesar Prieto, estudiante de último año en Ciencias Estadísticas, que bajo el seudonimo de CapStats muestro en este repositorio la pasion por el análisis de datos, el desarrollo de modelos predictivos, el machine learning y la inteligencia artificial.
 
