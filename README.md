@@ -5,8 +5,8 @@
 <h2>Sobre mí</h2>
 <p>Soy estudiante de Ciencias Estadísticas en la Universidad Nacional de Colombia, sede Bogotá. Me encanta aprender y aplicar mis conocimientos en proyectos prácticos que abordan problemas del mundo real. Tengo una sólida formación en estadística y programación en lenguajes para el desarrollo estadístico como R y Python (Este último usando Jupyter), además de habilidades en SQL, y me apasiona utilizar técnicas de análisis de datos y modelos predictivos para extraer insights valiosos. Estoy buscando oportunidades para crecer profesionalmente en el campo del análisis de datos, el machine learning y la inteligencia artificial, donde pueda contribuir con mis habilidades y aprender de profesionales experimentados.</p>
 
-<details open>
-   <summary>Proyectos Destacados</summary>
+<details close>
+   <summary><strong>Proyectos Destacados</strong></summary>
    <ul>
       <li><strong>[Time-Series]</strong> - Se planteó el análisis de 2 series de tiempo con una periodicidad diferente para de esta forma aplicar los conceptos aprendidos en clase y descubrir el proceso y el funcionamiento de las técnicas de descripción y modelado de Series temporales utilizando técnicas de modelado típicas como son los modelos ARMA, ARIMA y SARIMA, y por otro lado técnicas novedosas como pueden ser el modelado a través de Árboles de decisión y usando Redes Neuronales tanto Recurrentes como LSTM, como no recurrentes y multicapas.
          <ul>
@@ -25,7 +25,7 @@
 </details>
 
 <details close>
-   <summary>Habilidades</summary>
+   <summary><strong>Habilidades</strong></summary>
    <ul>
       <li><strong>Lenguajes de programación:</strong> R, Python</li>
       <li><strong>Frameworks y Librerías:</strong> Scikit-learn, TensorFlow, Pandas, NumPy, Dplyr, Igraph</li>
@@ -37,7 +37,7 @@
 </details>
 
 <details close>
-   <summary>Educación</summary>
+   <summary><strong>Educación</strong></summary>
    <ul>
       <li><strong><a href="#">Universidad Nacional de Colombia</a></strong> - Estadística (Año de Finalización: 2025)
          <ul>
