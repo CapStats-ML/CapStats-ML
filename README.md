@@ -24,25 +24,29 @@
    </ul>
 </details>
 
-<h2>Habilidades</h2>
-<ul>
-   <li><strong>Lenguajes de programación:</strong> R, Python</li>
-   <li><strong>Frameworks y Librerías:</strong> Scikit-learn, TensorFlow, Pandas, NumPy, Dplyr, Igraph</li>
-   <li><strong>Análisis de Datos y Visualización:</strong> RStudio, Jupyter Notebook, Matplotlib, Seaborn, Plotly</li>
-   <li><strong>Machine Learning y AI:</strong> Modelado predictivo, regresión, clasificación, clustering</li>
-   <li><strong>Bases de datos:</strong> PostgreSQL</li>
-   <li><strong>Herramientas:</strong> Git, VS Code, Conda, Mini Conda</li>
-</ul>
+<details close>
+   <summary>Habilidades</summary>
+   <ul>
+      <li><strong>Lenguajes de programación:</strong> R, Python</li>
+      <li><strong>Frameworks y Librerías:</strong> Scikit-learn, TensorFlow, Pandas, NumPy, Dplyr, Igraph</li>
+      <li><strong>Análisis de Datos y Visualización:</strong> RStudio, Jupyter Notebook, Matplotlib, Seaborn, Plotly</li>
+      <li><strong>Machine Learning y AI:</strong> Modelado predictivo, regresión, clasificación, clustering</li>
+      <li><strong>Bases de datos:</strong> PostgreSQL</li>
+      <li><strong>Herramientas:</strong> Git, VS Code, Conda, Mini Conda</li>
+   </ul>
+</details>
 
-<h2>Educación</h2>
-<ul>
-   <li><strong><a href="#">Universidad Nacional de Colombia</a></strong> - Estadística (Año de Finalización: 2025)
-      <ul>
-         <li>Cursos relevantes: <em>Metodos Multivariados, Analisis Estadistico de Redes Sociales, Analisis de Regresion, Series de Tiempo, Teoria Estadistica del Riesgo, Metodos no Parametricos</em></li>
-      </ul>
-   </li>
-   <li><strong>Educación Virtual:</strong> <a href="#">Conviertete en Data Analyst - LinkedIn</a>, <a href="#">Kaggle Learn Complete - Kaggle</a></li>
-</ul>
+<details close>
+   <summary>Educación</summary>
+   <ul>
+      <li><strong><a href="#">Universidad Nacional de Colombia</a></strong> - Estadística (Año de Finalización: 2025)
+         <ul>
+            <li>Cursos relevantes: <em>Metodos Multivariados, Analisis Estadistico de Redes Sociales, Analisis de Regresion, Series de Tiempo, Teoria Estadistica del Riesgo, Metodos no Parametricos</em></li>
+         </ul>
+      </li>
+      <li><strong>Educación Virtual:</strong> <a href="#">Conviertete en Data Analyst - LinkedIn</a>, <a href="#">Kaggle Learn Complete - Kaggle</a></li>
+   </ul>
+</details>
 
 ## Contacto
 - **Correo:** [ceprieto@unal.edu.co]
