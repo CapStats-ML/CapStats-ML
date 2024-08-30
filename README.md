@@ -2,12 +2,6 @@
 
 ¡¡Hola!! Soy ***Cesar Prieto***, estudiante de último año en Ciencias Estadísticas, que bajo el seudonimo de CapStats muestro en este repositorio la pasion por el análisis de datos, el desarrollo de modelos predictivos, el machine learning y la inteligencia artificial.
 
-## Sobre mí 
-Soy estudiante de Ciencias Estadísticas en la Universidad Nacional de Colombia, sede Bogotá. Me encanta aprender y aplicar mis conocimientos en proyectos prácticos que abordan problemas del mundo real. Tengo una sólida formación en estadística y programación en lenguajes para el desarrollo estadístico como R y Python (Este ultimo usando Jupyter), además de, habilidades en SQL, y me apasiona utilizar técnicas de análisis de datos y modelos predictivos para extraer insights valiosos. Estoy buscando oportunidades para crecer profesionalmente en el campo del análisis de datos, el machine learning y la inteligencia artificial, donde pueda contribuir con mis habilidades y aprender de profesionales experimentados.
-
-<h1>¡¡Hola!! Soy <strong>Cesar Prieto</strong></h1>
-<p>Estudiante de último año en Ciencias Estadísticas, que bajo el seudonimo de CapStats muestro en este repositorio la pasión por el análisis de datos, el desarrollo de modelos predictivos, el machine learning y la inteligencia artificial.</p>
-
 <h2>Sobre mí</h2>
 <p>Soy estudiante de Ciencias Estadísticas en la Universidad Nacional de Colombia, sede Bogotá. Me encanta aprender y aplicar mis conocimientos en proyectos prácticos que abordan problemas del mundo real. Tengo una sólida formación en estadística y programación en lenguajes para el desarrollo estadístico como R y Python (Este último usando Jupyter), además de habilidades en SQL, y me apasiona utilizar técnicas de análisis de datos y modelos predictivos para extraer insights valiosos. Estoy buscando oportunidades para crecer profesionalmente en el campo del análisis de datos, el machine learning y la inteligencia artificial, donde pueda contribuir con mis habilidades y aprender de profesionales experimentados.</p>
 
