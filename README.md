@@ -8,7 +8,7 @@
 <details close>
    <summary><strong>Proyectos Destacados</strong></summary>
    <ul>
-      <li><strong>[Time-Series]</strong> - Se planteó el análisis de 2 series de tiempo con una periodicidad diferente para de esta forma aplicar los conceptos aprendidos en clase y descubrir el proceso y el funcionamiento de las técnicas de descripción y modelado de Series temporales utilizando técnicas de modelado típicas como son los modelos ARMA, ARIMA y SARIMA, y por otro lado técnicas novedosas como pueden ser el modelado a través de Árboles de decisión y usando Redes Neuronales tanto Recurrentes como LSTM, como no recurrentes y multicapas.
+      <li><strong style="color: #F76000;">[Time-Series]</strong> - Se planteó el análisis de 2 series de tiempo con una periodicidad diferente para de esta forma aplicar los conceptos aprendidos en clase y descubrir el proceso y el funcionamiento de las técnicas de descripción y modelado de Series temporales utilizando técnicas de modelado típicas como son los modelos ARMA, ARIMA y SARIMA, y por otro lado técnicas novedosas como pueden ser el modelado a través de Árboles de decisión y usando Redes Neuronales tanto Recurrentes como LSTM, como no recurrentes y multicapas.
          <ul>
             <li>Tecnologías: <em>R, Python, Scikit-learn, TensorFlow, Pandas, NumPy</em></li>
             <li><a href="https://github.com/CapStats-ML/Time-series">Enlace al repositorio</a></li>
@@ -25,7 +25,7 @@
 </details>
 
 <details close>
-   <summary><strong>Habilidades</strong></summary>
+   <summary><strong style="color: #F76000;">Habilidades</strong></summary>
    <ul>
       <li><strong>Lenguajes de programación:</strong> R, Python</li>
       <li><strong>Frameworks y Librerías:</strong> Scikit-learn, TensorFlow, Pandas, NumPy, Dplyr, Igraph</li>
@@ -37,7 +37,7 @@
 </details>
 
 <details close>
-   <summary><strong>Educación</strong></summary>
+   <summary><strong style="color: #F76000;">Educación</strong></summary>
    <ul>
       <li><strong><a href="#">Universidad Nacional de Colombia</a></strong> - Estadística (Año de Finalización: 2025)
          <ul>
