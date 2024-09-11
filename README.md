@@ -23,13 +23,10 @@
       </li>
       <li><strong>Análisis del discruso del Caso 03 de la JEP</strong> - Se desarrolló en compañía de <a href="https://github.com/aurreg">Alejandro Urrego</a> y de él docente <a href="[https://github.com/aurreg](https://github.com/jstats1702)">Juan Camilo Sosa</a> el Análisis discursivo del Caso 03 de la JEP el cual habla sobre las desapariciones forzdas y las bajas de civiles presentadas como muertes en combates por parte de agentes del estado, donde se utilizaron tecnicas de WebScrapping a las listas de reproducción subidas a la página de YouTube de la JEP con la intencion de obtener las transcripciones de los videos y poder aplicar la metodología de análisis textual a travez de redes de palabras, tambien se propone un análisis secuencial de sentimientos el cual nos da una idea de como se percibe a nivel sentimental (Sentimientos buenos o Sentimientos Malos) el discurso. Este proyecto se realizo a nivel general y luego por subcasos y tambien por vistimas y victimarios. <strong>(AUN EN DESARROLLO)</strong>
          <ul>
-            <li>Presentado en la escuela latinoamericana de redes y sistemas complejos <a href="https://sites.google.com/unal.edu.co/enredando2024/p%C3%A1gina-principal?authuser=0">ENREDANDO 2024</a> en la modalidad de póster</li>
             <li>Tecnologías: <em>R, Python, Conda, Igraph (Tanto en R como en Python), Networkx</em></li>
-            <li><a href="https://github.com/aurreg/Anime-Network-Project">Enlace al repositorio</a></li>
+            <li><a href="https://github.com/aurreg/-Proyecto-JEP-">Enlace al repositorio</a></li>
          </ul>
       </li>
-      
-      
    </ul>
 </details>
 
