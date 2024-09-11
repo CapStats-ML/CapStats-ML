@@ -8,19 +8,28 @@
 <details close>
    <summary style="color: #F76000;"><strong>Proyectos Destacados</strong></summary>
    <ul>
-      <li><strong >[Time-Series]</strong> - Se planteó el análisis de 2 series de tiempo con una periodicidad diferente para de esta forma aplicar los conceptos aprendidos en clase y descubrir el proceso y el funcionamiento de las técnicas de descripción y modelado de Series temporales utilizando técnicas de modelado típicas como son los modelos ARMA, ARIMA y SARIMA, y por otro lado técnicas novedosas como pueden ser el modelado a través de Árboles de decisión y usando Redes Neuronales tanto Recurrentes como LSTM, como no recurrentes y multicapas.
+      <li><strong >[Time-Series]</strong> - Se planteó el análisis de 2 series de tiempo con una periodicidad diferente para de esta forma aplicar los conceptos aprendidos en clase y descubrir el proceso y el funcionamiento de las técnicas de descripción y modelado de Series temporales utilizando técnicas de modelado típicas como son los modelos ARMA, ARIMA y SARIMA, y por otro lado técnicas novedosas como pueden ser el modelado a través de Árboles de decisión y usando Redes Neuronales tanto Recurrentes como LSTM, como no recurrentes y multicapas. <strong>(AUN EN DESARROLLO)</strong>
          <ul>
             <li>Tecnologías: <em>R, Python, Scikit-learn, TensorFlow, Pandas, NumPy</em></li>
             <li><a href="https://github.com/CapStats-ML/Time-series">Enlace al repositorio</a></li>
          </ul>
       </li>
-      <li><strong>Análisis de redes Bipartitas en Series de Anime</strong> - Se desarrolló en compañía de <a href="https://github.com/aurreg">Alejandro Urrego</a> un proyecto, donde descubrimos como las descripciones de las series, en este caso series de animación Japonesa, influían en la creación de grandes comunidades en la red de Usuarios - Animes a través del análisis textual NLP usando redes con Bigramas y el modelado aplicando ERGM sobre algunas variables exógenas creadas a partir de la búsqueda de comunidades dentro de las redes de palabras.
+      <li><strong>Análisis de redes Bipartitas en Series de Anime</strong> - Se desarrolló en compañía de <a href="https://github.com/aurreg">Alejandro Urrego</a> un proyecto, donde descubrimos como las descripciones de las series, en este caso series de animación Japonesa, influían en la creación de grandes comunidades en la red de Usuarios - Animes a través del análisis textual NLP usando redes con Bigramas y el modelado aplicando ERGM sobre algunas variables exógenas creadas a partir de la búsqueda de comunidades dentro de las redes de palabras. <strong>(AUN EN DESARROLLO)</strong>
          <ul>
             <li>Presentado en la escuela latinoamericana de redes y sistemas complejos <a href="https://sites.google.com/unal.edu.co/enredando2024/p%C3%A1gina-principal?authuser=0">ENREDANDO 2024</a> en la modalidad de póster</li>
             <li>Tecnologías: <em>R, Python, Conda, Igraph (Tanto en R como en Python), Networkx</em></li>
             <li><a href="https://github.com/aurreg/Anime-Network-Project">Enlace al repositorio</a></li>
          </ul>
       </li>
+      <li><strong>Análisis del discruso del Caso 03 de la JEP</strong> - Se desarrolló en compañía de <a href="https://github.com/aurreg">Alejandro Urrego</a> y de él docente <a href="[https://github.com/aurreg](https://github.com/jstats1702)">Juan Camilo Sosa</a> el Análisis discursivo del Caso 03 de la JEP el cual habla sobre las desapariciones forzdas y las bajas de civiles presentadas como muertes en combates por parte de agentes del estado, donde se utilizaron tecnicas de WebScrapping a las listas de reproducción subidas a la página de YouTube de la JEP con la intencion de obtener las transcripciones de los videos y poder aplicar la metodología de análisis textual a travez de redes de palabras, tambien se propone un análisis secuencial de sentimientos el cual nos da una idea de como se percibe a nivel sentimental (Sentimientos buenos o Sentimientos Malos) el discurso. Este proyecto se realizo a nivel general y luego por subcasos y tambien por vistimas y victimarios. <strong>(AUN EN DESARROLLO)</strong>
+         <ul>
+            <li>Presentado en la escuela latinoamericana de redes y sistemas complejos <a href="https://sites.google.com/unal.edu.co/enredando2024/p%C3%A1gina-principal?authuser=0">ENREDANDO 2024</a> en la modalidad de póster</li>
+            <li>Tecnologías: <em>R, Python, Conda, Igraph (Tanto en R como en Python), Networkx</em></li>
+            <li><a href="https://github.com/aurreg/Anime-Network-Project">Enlace al repositorio</a></li>
+         </ul>
+      </li>
+      
+      
    </ul>
 </details>
 
