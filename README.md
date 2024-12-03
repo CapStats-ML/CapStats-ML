@@ -48,7 +48,7 @@
    <ul>
       <li><strong><a href="#">Universidad Nacional de Colombia</a></strong> - Estadística (Año de Finalización: 2025)
          <ul>
-            <li>Cursos relevantes: <em>Metodos Multivariados, Analisis Estadistico de Redes Sociales, Analisis de Regresion, Series de Tiempo, Teoria Estadistica del Riesgo, Metodos no Parametricos</em></li>
+            <li>Cursos relevantes: <em>Metodos Multivariados, Analisis Estadistico de Redes Sociales, Analisis de Regresion, Series de Tiempo, Teoria Estadistica del Riesgo, Metodos no Parametricos, Aprendizaje Automatico y Ciencia de Datos, Estadística Bayesiana, Diseño de Experimentos</em></li>
          </ul>
       </li>
       <li><strong>Educación Virtual:</strong> <a href="#">Conviertete en Data Analyst - LinkedIn</a>, <a href="#">Kaggle Learn Complete - Kaggle</a></li>
